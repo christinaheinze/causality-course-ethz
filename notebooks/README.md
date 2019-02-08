@@ -14,7 +14,7 @@ We would therefore encourage you to install jupyter on your laptop (see below). 
 1. Essentially, there are the following two options to install jupyter:
 
     A. Installation via [anaconda](https://www.anaconda.com/distribution/). 
-    Anaconda includes python along with a number of packages such as juyter. If you are only interested in a minimal version of python, it is probably sufficient to install miniconda.
+    Anaconda includes python along with a number of packages such as jupyter. If you are only interested in a minimal version of python, it is probably sufficient to install miniconda.
     
     B. Installation via pip. If you already have a running version of python and pip you can also use pip to install jupyter (see the instructions at the bottom of this [page](http://jupyter.readthedocs.io/en/latest/install.html)). In order for R to work you then also need to manually install the R package [IRkernel](https://github.com/IRkernel/IRkernel/blob/master/README.md).
 
