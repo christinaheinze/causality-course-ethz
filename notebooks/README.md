@@ -23,5 +23,5 @@ We would therefore encourage you to install jupyter on your laptop (see below). 
 3. Once you have a running version of jupyter, start it by running
 `jupyter notebook` in your terminal. You can then check if everything is correctly set up by running the `setupNotebook.ipynb` notebook (use the R kernel). This also tells you which additional R packages you should have installed. 
 
-4. Remind yourself on some [R syntax](http://github.com/rstudio/cheatsheets/raw/master/source/pdfs/base-r.pdf).
+1. Remind yourself on some [R syntax](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf).
 
