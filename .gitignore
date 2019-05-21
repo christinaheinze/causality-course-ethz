@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+ComputeInterventions-withsolutions.ipynb
+InstrumentalVariablesFrontdoor-withsolutions.ipynb
+InvariantCausalPrediction-withsolutions.ipynb
+RestrictedSEMs-withsolutions.ipynb
